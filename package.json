@@ -1,0 +1,23 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "Inicialmente- baixar a imagem tomcat\r docker pull tomcat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milenalinsb/docker-dac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milenalinsb/docker-dac/issues"
+  },
+  "homepage": "https://github.com/milenalinsb/docker-dac#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
